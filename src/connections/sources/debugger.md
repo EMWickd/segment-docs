@@ -1,5 +1,5 @@
 ---
-title: Using the Source Debugger
+AuDebugger
 ---
 
 The Source Debugger is a real-time tool that helps you confirm that API calls made from your website, mobile app, or servers arrive to your Segment Source, so you can troubleshoot your Segment set up even quicker. With the Debugger, you can check that calls are sent in the expected format without having to wait for any data processing.
